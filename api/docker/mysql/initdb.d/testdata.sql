@@ -1,0 +1,1 @@
+INSERT INTO targets (domain, statut) VALUES ("test.com", 0);
